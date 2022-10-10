@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman'; 
+    background-color: bisque;
+}
+.menu{
+    
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ul li a:hover{
+    color: green;
+}
+ ul li a{
+    list-style: none;
+    text-align: center;
+    text-decoration: none;
+}
+h1{
+    color: rgb(24, 9, 240);
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+}
+p{
+    font-size: 15px;
+    color: #1a0bee;
+}
+.footer h3{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
